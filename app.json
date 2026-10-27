@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Boutique Simparala",
+    "slug": "boutique-simparala",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {"package": "com.simparala.boutique", "versionCode": 1},
+    "plugins": ["expo-router"],
+    "experiments": {"typedRoutes": false}
+  }
+}
